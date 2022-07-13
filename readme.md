@@ -1,6 +1,6 @@
 # Comprehensive Importance-based Selective Regularization for Cross-Site Continual Segmentation
 
-Here are the implementations for paper:
+Here is the implementation for paper:
 
 **Comprehensive Importance-based Selective Regularization for Continual Segmentation across Multiple Sites.** (https://link.springer.com/chapter/10.1007/978-3-030-87193-2_37) (conference version)
 
