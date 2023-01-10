@@ -6,7 +6,7 @@ Here is the implementation for paper:
 
 **$S^3R$: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites** (journal version is in submission)
 
-![overview](fig/overview.png)
+![overview](fig/overview_journal.png)
 
 ### Introduction
 
