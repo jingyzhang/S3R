@@ -1,10 +1,10 @@
-# S$^3$R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites
+# $S{^3}R$: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites
 
 Here is the implementation for paper:
 
 **Comprehensive Importance-based Selective Regularization for Continual Segmentation across Multiple Sites.** (https://link.springer.com/chapter/10.1007/978-3-030-87193-2_37) (conference version)
 
-**S$^3$R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites** (journal version is in submission)
+**$S^3R$: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites** (journal version is in submission)
 
 ![overview](fig/overview.png)
 
@@ -12,7 +12,7 @@ Here is the implementation for paper:
 
 In clinical practice, a segmentation network is often required to continually learn on a sequential data stream from multiple sites rather than a consolidated set.
 However, during the continual learning process, existing methods are usually restricted by the poor network memorizability on previous sites when learning from images from a new site.
-In this project, we tackle an interesting problem setting of continual segmentation across multiple sites, by proposing a shape and semantics-based selective regularization to enhance both shape and semantic memory.
+In this project, we tackle an interesting problem setting of continual segmentation across multiple sites, by proposing a shape and semantics-based selective regularization ($S^3R$) to enhance both shape and semantic memory.
 
 ### Usage
 
