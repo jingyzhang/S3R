@@ -1,4 +1,4 @@
-# Comprehensive Importance-based Selective Regularization for Cross-Site Continual Segmentation
+# $dfs$: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites
 
 Here is the implementation for paper:
 
