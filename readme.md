@@ -2,9 +2,9 @@
 
 Here is the implementation for paper:
 
-**Comprehensive Importance-based Selective Regularization for Continual Segmentation across Multiple Sites.** (https://link.springer.com/chapter/10.1007/978-3-030-87193-2_37) (conference version)
+**Comprehensive Importance-based Selective Regularization for Continual Segmentation across Multiple Sites.** (https://link.springer.com/chapter/10.1007/978-3-030-87193-2_37) (MICCAI)
 
-**S<sup>3</sup>R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites** (journal version is in submission)
+**S<sup>3</sup>R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites** (TMI 10.1109/TMI.2023.3260974)
 
 ![overview](fig/overview_journal.png)
 
