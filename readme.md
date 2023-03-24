@@ -38,6 +38,12 @@ If you make use of the code, please cite:
   journal={International Conference on Medical Image Computing and Computer Assisted Intervention},
   year={2021}
 }
+@article{zhang2023TMI,
+  title={S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites},
+  author={Zhang, Jingyang and Gu, Ran and Peng, Xue and Liu, Mianxin, and Zheng, Hao and Zheng, Yefeng and Ma, Lei and Wang, Guotai and Gu, Lixu},
+  journal={IEEE Transactions on Medical Imaging },
+  year={2023}
+}
 ```
 
 ### Questions
